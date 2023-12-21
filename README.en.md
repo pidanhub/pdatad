@@ -1,7 +1,7 @@
 # pdatad
 
 #### Description
-致力于简化、简洁的实体类开发
+It is committed to simplifying the development steps of entity classes and making entity classes concise.
 
 #### Software Architecture
 Software architecture description
