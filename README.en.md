@@ -9,14 +9,14 @@ Software architecture description
 #### Installation
 
 1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##### Import manually
+
+1. Create a folder named lib. If developing using JetBrains IDEs, Mark the directory as 'Resource'.
+2. Put the jar package into folder.
+3. Follow the documentation to develop your software.
 
 #### Contribution
 
