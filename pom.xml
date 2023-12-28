@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	
+	<groupId>top.data.pidan</groupId>
+	<artifactId>pdatad</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0-SNAPSHOT</version>
+	
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
+		
+		<main.java.version>1.8</main.java.version>
+		
+		<maven.compiler.source>${main.java.version}</maven.compiler.source>
+		<maven.compiler.target>${main.java.version}</maven.compiler.target>
+	
+	
+	</properties>
+	
+	<name>pidan data</name>
+	<url>
+		https://github.com/pidanhub/pdatad
+	</url>
+	<description>
+		It is committed to simplifying the development steps of entity classes and making entity classes concise.
+	</description>
+	
+	<modules>
+		<module>pdatad-core</module>
+	</modules>
+	
+	<organization>
+		<!--    Pidan Community    -->
+		<name>pidan-C</name>
+		<url>https://github.com/pidan-C</url>
+	</organization>
+	
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+	
+	<issueManagement>
+		<system>Github</system>
+		<url>https://github.com/pidanhub/pdatad/issues</url>
+	</issueManagement>
+	
+	<developers>
+		<developer>
+			<id>boss</id>
+			<name>pidan</name>
+			<organization>pidan-C</organization>
+		</developer>
+	</developers>
+	
+	<dependencyManagement>
+		<dependencies>
+		
+		</dependencies>
+	</dependencyManagement>
+
+</project>
